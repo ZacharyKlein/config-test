@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-bootstrap:3.1.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-bootstrap/3.1.7/a3bac42373be0b3f6d64e5dbe275f6704171048d/grails-bootstrap-3.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-bootstrap/3.1.7/d0104719615ce3eb8282ed12ae600928a9296b53/grails-bootstrap-3.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

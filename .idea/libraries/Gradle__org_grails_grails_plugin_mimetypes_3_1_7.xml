@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-plugin-mimetypes:3.1.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-mimetypes/3.1.7/e2e3698558f51a90e2e7cf95cd66b75bd919f2bc/grails-plugin-mimetypes-3.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-mimetypes/3.1.7/229f7197c56103dc49c884d4df649e53b5e50938/grails-plugin-mimetypes-3.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
